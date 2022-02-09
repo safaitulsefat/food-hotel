@@ -35,6 +35,10 @@ p{
 .banner{
     background-image: url(images/shapes/7.png);
 }
+.person img{
+   padding-left: 25%;
+   padding-top: 3%;
+}
 .head{
    text-align: center;
 }
